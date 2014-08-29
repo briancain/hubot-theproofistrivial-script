@@ -2,7 +2,7 @@
 # Gives a random proof
 #
 # Commands:
-# !proof
+# hubot proof me
 #
 # Notes:
 # Will construct a random proof
